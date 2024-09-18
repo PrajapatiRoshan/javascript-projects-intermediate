@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator with functions",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir build"
+  },
+  "author": "Code-phat-gya",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.38.0",
+    "mathjs": "^13.0.3",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1"
+  }
+}
