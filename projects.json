@@ -5,7 +5,8 @@
   "projects": [
     {
       "id": "01",
-      "name": "Calculator"
+      "name": "Calculator",
+      "hasBuild": true
     },
     {
       "id": "02",

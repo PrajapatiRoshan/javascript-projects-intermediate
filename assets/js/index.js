@@ -14,7 +14,7 @@ let _forReadMe = '';
 //  UpdateUI
 const updateUI = data => {
   const { repo, projects, url, demo } = data;
-  projects.map(({ name, id }) => {
+  projects.map(({ name, id, ...other }) => {
     const _folderName = `${Number(id)}-${name}`;
     const itemList = document.createElement('li');
     itemList.innerHTML = `
@@ -27,7 +27,9 @@ const updateUI = data => {
 		<a href="${url}${_folderName}" target="_blank" class="code-link">
 		    ${'{'} code ${'}'}
 		</a>
-    <a href="${demo}${_folderName}" target="_blank" class="code-link">
+    <a href="${demo}${_folderName}${
+      other.hasBuild ? '/build' : ''
+    }" target="_blank" class="code-link">
 		    ${'{'} demo ${'}'}
 		</a>`;
     list.appendChild(itemList);

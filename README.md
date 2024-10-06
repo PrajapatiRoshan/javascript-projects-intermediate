@@ -31,7 +31,7 @@ Here is a list of JavaScript projects:
 
 | Index | Project Name        | Code Link                                                                                                     | Demo Link                                                                                        |
 | ----- | ------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
-| 01    | Calculator          | [Code](https://github.com/PrajapatiRoshan/javascript-projects-intermediate/tree/master/1-Calculator)          | [Demo](https://prajapatiroshan.github.io/javascript-projects-intermediate/1-ToDoList)            |
+| 01    | Calculator          | [Code](https://github.com/PrajapatiRoshan/javascript-projects-intermediate/tree/master/1-Calculator)          | [Demo](https://prajapatiroshan.github.io/javascript-projects-intermediate/1-Calculator/build)    |
 | 02    | Guess-Random-Number | [Code](https://github.com/PrajapatiRoshan/javascript-projects-intermediate/tree/master/2-Guess-Random-Number) | [Demo](https://prajapatiroshan.github.io/javascript-projects-intermediate/2-Guess-Random-Number) |
 | 03    | workout-locations   | [Code](https://github.com/PrajapatiRoshan/javascript-projects-intermediate/tree/master/3-workout-locations)   | [Demo](https://prajapatiroshan.github.io/javascript-projects-intermediate/3-workout-locations)   |
 | 04    | virtual-keyboard    | [Code](https://github.com/PrajapatiRoshan/javascript-projects-intermediate/tree/master/4-virtual-keyboard)    | [Demo](https://prajapatiroshan.github.io/javascript-projects-intermediate/4-virtual-keyboard)    |
