@@ -1,9 +1,12 @@
 {
+  "homepage": "https://prajapatiroshan.github.io/javascript-projects-intermediate/",
   "name": "calculator",
   "version": "1.0.0",
   "description": "calculator with functions",
   "scripts": {
     "start": "parcel index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-page -d build",
     "build": "parcel build index.html --dist-dir build"
   },
   "author": "Code-phat-gya",

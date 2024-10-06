@@ -1,0 +1,23 @@
+{
+  "repo": "https://github.com/PrajapatiRoshan/javascript-projects-intermediate ",
+  "url": "https://github.com/PrajapatiRoshan/javascript-projects-intermediate/tree/master/",
+  "demo": "https://prajapatiroshan.github.io/javascript-projects-intermediate/",
+  "projects": [
+    {
+      "id": "01",
+      "name": "Calculator"
+    },
+    {
+      "id": "02",
+      "name": "Guess-Random-Number"
+    },
+    {
+      "id": "03",
+      "name": "workout-locations"
+    },
+    {
+      "id": "04",
+      "name": "virtual-keyboard"
+    }
+  ]
+}
